@@ -7,7 +7,7 @@
       "name": "Test ürünü",
       "viscosity": "5W-30",
       "description": "Katalog bağlantı testi",
-      "image": "images.jpg",
+      "image": "image.jpg",
       "active": true
     }
   ]
