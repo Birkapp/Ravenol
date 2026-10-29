@@ -8,6 +8,22 @@
       "price": "125 AZN",
       "image": "image.jpg",
       "active": true
+    },
+    {
+      "id": "rav-002",
+      "name": "RAVENOL DXG",
+      "details": "5W-30 - Tam sentetik",
+      "price": "135 AZN",
+      "image": "image.jpg",
+      "active": true
+    },
+    {
+      "id": "rav-003",
+      "name": "RAVENOL VST",
+      "details": "5W-40 - Tam sentetik",
+      "price": "145 AZN",
+      "image": "image.jpg",
+      "active": true
     }
   ]
 }
