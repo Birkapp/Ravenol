@@ -1,12 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29",
   "products": [
     {
-      "id": "test-001",
-      "name": "Test ürünü",
-      "viscosity": "5W-30",
-      "description": "Katalog bağlantı testi",
+      "id": "rav-001",
+      "name": "RAVENOL VMP",
+      "details": "5W-30 - Tam sentetik",
+      "price": "125 AZN",
       "image": "image.jpg",
       "active": true
     }
