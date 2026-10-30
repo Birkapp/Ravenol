@@ -18,42 +18,10 @@
       "active": true
     },
     {
-      "id": "rav-001",
-      "name": "RAVENOL VMP",
-      "details": "5W-30 - Tam sentetik",
-      "price": "125 AZN",
-      "image": "image.jpg",
-      "active": true
-    },
-    {
-      "id": "rav-001",
-      "name": "RAVENOL VMP",
-      "details": "5W-30 - Tam sentetik",
-      "price": "125 AZN",
-      "image": "image.jpg",
-      "active": true
-    },
-    {
-      "id": "rav-001",
-      "name": "RAVENOL VMP",
-      "details": "5W-30 - Tam sentetik",
-      "price": "125 AZN",
-      "image": "image.jpg",
-      "active": true
-    },
-    {
       "id": "rav-002",
-      "name": "RAVENOL DXG1",
-      "details": "5W-30 - Tam sentetik",
-      "price": "135 AZN",
-      "image": "image.jpg",
-      "active": true
-    },
-    {
-      "id": "rav-002",
-      "name": "RAVENOL DXG2",
-      "details": "5W-30 - Tam sentetik",
-      "price": "135 AZN",
+      "name": "Ravenol EHC 0W-20",
+      "details": "ILSAC GF-7B - Dexos1",
+      "price": "4L 130 AZN",
       "image": "image.jpg",
       "active": true
     }
