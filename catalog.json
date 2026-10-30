@@ -48,6 +48,14 @@
       "price": "4L 156 AZN",
       "image": "image.jpg",
       "active": true
+    },
+    {
+      "id": "rav-006",
+      "name": "RAVENOL HLS 5W-30",
+      "details": "Dexos 2",
+      "price": "4L 139 azn",
+      "image": "image.jpg",
+      "active": true
     }
   ]
 }
