@@ -32,6 +32,22 @@
       "price": "4L 156",
       "image": "image.jpg",
       "active": true
+    },
+    {
+      "id": "rav-004",
+      "name": "RAVENOL VSI 5W-40",
+      "details": "Full Sintetik Pao A/3B4",
+      "price": "4L 136 AZN",
+      "image": "image.jpg",
+      "active": true
+    },
+    {
+      "id": "rav-005",
+      "name": "RAVENOL EFS 0W-20",
+      "details": "Full Sintetik pao (ILSAC GF-7B LL FE17+)",
+      "price": "4L 156 AZN",
+      "image": "image.jpg",
+      "active": true
     }
   ]
 }
