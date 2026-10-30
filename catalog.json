@@ -48,14 +48,6 @@
       "price": "4L 156 AZN",
       "image": "image.jpg",
       "active": true
-    },
-    {
-      "id": "rav-007",
-      "name": "RAVENOL VFE 5W-20",
-      "details": "ILSAC GF-7B Sintetik",
-      "price": "5L 145 AZN",
-      "image": "image.jpg",
-      "active": true
     }
   ]
 }
