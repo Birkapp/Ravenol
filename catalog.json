@@ -56,6 +56,14 @@
       "price": "4L 139 azn",
       "image": "image.jpg",
       "active": true
+    },
+    {
+      "id": "rav-007",
+      "name": "ARDECA DX 5W-30",
+      "details": "ILSAC GF-7B Dexos 2",
+      "price": "5L 125 AZN",
+      "image": "image.jpg",
+      "active": true
     }
   ]
 }
