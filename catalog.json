@@ -58,12 +58,12 @@
       "active": true
     },
     {
-      "name": "Ravenol LLO",
+      "name": "Ravenol",
       "details": "Sintetik",
-      "price": "125 Azn",
+      "price": "100",
       "image": "image.jpg",
-      "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-eco-synth-ecs-sae-0w-20",
-      "active": true
+      "url": "Hurriyet.com.tr",
+      "active": false
     }
   ]
 }
