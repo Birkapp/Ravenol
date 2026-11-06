@@ -64,6 +64,14 @@
       "image": "image.jpg",
       "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-fds-sae-5w-30",
       "active": true
+    },
+    {
+      "name": "Ardeca DX 5W-30",
+      "details": "Full Sintetik / ILSAC GF-7B / Dexos 2",
+      "price": "5L 125 AZN",
+      "image": "image.jpg",
+      "url": "https://www.ardeca-lubricants.be/en/product/synth-dx-5w-30/370/",
+      "active": true
     }
   ]
 }
