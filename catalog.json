@@ -56,6 +56,14 @@
       "image": "image.jpg",
       "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-fo-sae-5w-30",
       "active": true
+    },
+    {
+      "name": "Ravenol LLO",
+      "details": "Sintetik",
+      "price": "125 Azn",
+      "image": "image.jpg",
+      "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-eco-synth-ecs-sae-0w-20",
+      "active": true
     }
   ]
 }
