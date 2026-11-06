@@ -56,6 +56,14 @@
       "image": "image.jpg",
       "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-fo-sae-5w-30",
       "active": true
+    },
+    {
+      "name": "Ravenol EHC 0W-20",
+      "details": "Full Sintetik Pao",
+      "price": "image.jpg",
+      "image": "4L156 AZN",
+      "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-eco-synth-ecs-sae-0w-20",
+      "active": true
     }
   ]
 }
