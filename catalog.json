@@ -58,12 +58,12 @@
       "active": true
     },
     {
-      "name": "Ravenol",
+      "name": "Ardeca",
       "details": "Sintetik",
-      "price": "100",
+      "price": "5L 125 Azn",
       "image": "image.jpg",
-      "url": "Hurriyet.com.tr",
-      "active": false
+      "url": "Hurriyet.com",
+      "active": true
     }
   ]
 }
