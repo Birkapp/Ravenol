@@ -72,6 +72,14 @@
       "image": "image.jpg",
       "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-dxg-sae-5w-30",
       "active": true
+    },
+    {
+      "name": "Ravenol HLS 5W30",
+      "details": "Sentetik dexos 2",
+      "price": "5L 139 AZN",
+      "image": "image.jpg",
+      "url": "https://ravenol.de/en/product/motorenoel/pkw-motorenoel/ravenol-hls-sae-5w-30",
+      "active": true
     }
   ]
 }
